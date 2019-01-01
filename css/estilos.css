@@ -123,7 +123,7 @@ ol, ul {
 }
 
 .hero {
-    height: 300px;
+    height: 250px;
     /* background-image: url('../images/6007.jpg');
     background-size: 700px, 300px;
     background-repeat: no-repeat;
@@ -145,8 +145,8 @@ ol, ul {
 }
 
 .hero-image  {
-    width: 700px;
-    height: 300px;
+    width: 650px;
+    height: 250px;
     object-fit: cover;
 }
 
@@ -436,4 +436,8 @@ ol, ul {
     align-items: inherit;
     height: inherit;
     flex-wrap: inherit;
+}
+
+.invisibleAnchor {
+    text-decoration: none;
 }
